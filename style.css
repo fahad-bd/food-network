@@ -39,3 +39,21 @@ h1{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
+.text-center{
+    text-align: center;
+}
+
+.one-thard-width{
+    width: 33%;
+    padding-left: 5%;
+}
+.border-recp{
+    border: 15px;
+}
+.border-recp img{
+    width: 300px;
+}
+.gray-color{
+    background-color: rgb(202, 200, 200);
+}
