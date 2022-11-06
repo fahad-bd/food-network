@@ -11,6 +11,7 @@ h1{
 .top-banner{
     background-image: url(images/Frame\ 59.jpg);
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 .display-fles{
     display: flex;
@@ -26,7 +27,7 @@ h1{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
-    padding: 10px 20px;
+    padding: 20px 40px;
     border-radius: 50px;
     font-weight: 700;
 }
@@ -36,4 +37,5 @@ h1{
 .about-me{
     background-image: url(images/Frame\ 58.jpg);
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
