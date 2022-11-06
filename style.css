@@ -46,12 +46,12 @@ h1{
 
 .one-thard-width{
     width: 33%;
-    padding: 5%;
-    border-radius: 15px;
-    border: 5px;
 }
 .border-recp{
-    border: 15px;
+    padding: 2%;
+    margin: 55px;
+    box-shadow: 5px 10px 10px 5px rgb(216, 212, 212);
+    border-radius: 4%;
 }
 .border-recp img{
     width: 300px;
@@ -59,9 +59,18 @@ h1{
 .gray-color{
     background-color: rgb(202, 200, 200);
 }
-.shadow{
-    box-shadow: 5px 5px 5px 5px gray;
-}
+
 .color-black{
     background-color: black;
+}
+.display-fles-recipie{
+    display: flex;
+    justify-content:space-between;
+}
+.fo{
+    margin: 4%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 10px 10px rgb(216, 212, 212);
+    border-radius: 20px;
 }
